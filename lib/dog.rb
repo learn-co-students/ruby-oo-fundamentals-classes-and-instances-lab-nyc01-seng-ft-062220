@@ -1,6 +1,7 @@
 class Dog
 end
 
-fido = Dog.new
+#Below instantiates fido, snoopy, lassie as dogs in class Dog
+fido = Dog.new 
 snoopy = Dog.new
 lassie = Dog.new
